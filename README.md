@@ -6,8 +6,10 @@
         </picture>
     </p>
     <b align="center">
-        <samp>Hi, hello, welcome to my GitHub! I am a .Net enthusiast developer and open source contributor. </samp>
-        <samp>My main focus is full-stack development, and I have achieved some results in applications such as geometric graphics, communication protocols, BIM, and CAD.</samp>
+        <samp>
+            Hi, hello, welcome to my GitHub! I am a .Net enthusiast developer and open source contributor. 
+            My main focus is full-stack development, and I have achieved some results in applications such as enterprise system, geometric graphics, communication protocols, BIM, and CAD.
+        </samp>
     </b>
     <br>
     <br>
